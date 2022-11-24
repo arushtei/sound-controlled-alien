@@ -1,0 +1,40 @@
+body
+{
+    text-align: center;
+    background-color:#e2e8dd;
+    font-family: 'Aboreto', cursive;
+
+}
+#header_division
+{
+    background-color: #95a3a4;
+    
+}
+#header
+{
+    font-family: 'Poppins', sans-serif;
+}
+#btn1
+{
+    background-color: #5bc0de;
+    width: 120px;
+    font-weight: 600;
+    border-color: #5bc0de;
+}
+
+#uniqueIDp2
+{
+   font-size: 150%;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+#img1
+{
+    height: 30%;
+    width: 10%;
+}
+#footer_div
+{
+    color: black;
+    font-weight:bold;
+}
